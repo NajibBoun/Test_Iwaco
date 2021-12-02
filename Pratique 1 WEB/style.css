@@ -1,0 +1,36 @@
+
+body{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+    background-image: url("img/background.jpg");
+    position: 50% 50%;
+}
+.title_page{
+    color: #002f7a;
+}
+.img_title_page{
+    width: 30px;
+    margin: 10px;
+}
+.img_factory{
+    border-radius: 2rem 0 0 0;
+    margin: 0 3rem 0;
+}
+#accordion{
+    width: 75%;
+    padding-right: 4rem;
+}
+
+.card{
+    border :0px !important;
+    background-color: rgb(0, 0, 0, 0) !important;
+}
+.card-header{
+    background-color: rgb(0, 0, 0, 0) !important;
+}
+.btn-link,h3,h5{
+    text-decoration: none !important;
+    color: #489ad4 !important ;
+}
+.btn-link{
+    width: 100%;
+}
